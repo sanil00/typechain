@@ -1,0 +1,10 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "outDir": "build",
+        "target": "es6",
+        "lib": ["ES6", "DOM"],
+        "strict": true,
+        "allowJs": true // js include를 허용해준다.
+    }
+}
